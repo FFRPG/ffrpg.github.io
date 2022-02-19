@@ -1,0 +1,33 @@
+.red {
+    color: red;
+}
+.blue {
+    color: rgb(60, 60, 255);
+}
+.orange {
+    color: orange;
+}
+.purple {
+    color: purple;
+}
+.greenyellow {
+    color: greenyellow;
+}
+.green {
+    color: rgb(48, 180, 48);
+}
+.skyblue {
+    color: skyblue;
+}
+.white {
+    color: white;
+}
+.black {
+    color: rgb(165, 165, 165);
+}
+.yellow {
+    color: yellow;
+}
+.none {
+    list-style: none;
+}
