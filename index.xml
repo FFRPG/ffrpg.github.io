@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ffrpg.github.io/style.css"?>
+<rdf:RDF
+  xmlns="http://purl.org/rss/1.0/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xml:lang="ja">
+  <channel rdf:about="https://ffrpg.github.io/index.xml/index.xml">
+    <title>FFRPGサーバー|ホーム</title>
+    <link>https://ffrpg.github.io/</link>
+    <dc:date>2022-06-18T23:04:04+09:00</dc:date>
+    <description>FFRPGのホームページに関するもの</description>
+    <admin:generatorAgent rdf:resource="http://www.infomaker.jp/editorlite/?v=0.93" />
+    <image rdf:resource="https://ffrpg.github.io/icon.png"/>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ffrpg.github.io/#he20220618"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <image rdf:about="https://ffrpg.github.io/icon.png">
+    <title>FFRPGサーバー|ホーム</title>
+    <link>https://ffrpg.github.io/</link>
+    <url>https://ffrpg.github.io/icon.png</url>
+  </image>
+  <item rdf:about="https://ffrpg.github.io/#he20220618">
+    <title>運営の募集要項変更</title>
+    <link>https://ffrpg.github.io/</link>
+    <dc:date>2022-06-11</dc:date>
+    <description>運営の募集要項更新</description>
+  </item>
+
+</rdf:RDF>
